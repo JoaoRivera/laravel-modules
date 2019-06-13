@@ -10,6 +10,11 @@
   ],
   "license": "MIT",
   "authors": [
+      {
+      "name": "João Rivera",
+      "email": "joao2004_93@hotmail.com",
+      "role": "Developer"
+    },
     {
       "name": "Nicolas Widart",
       "email": "n.widart@gmail.com",
@@ -55,6 +60,9 @@
     "branch-alias": {
       "dev-master": "5.0-dev"
     }
+  },
+    "replace": {
+      "nwidart/laravel-modules": "^4.1"
   },
   "minimum-stability": "dev",
   "prefer-stable": true
